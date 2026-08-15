@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "NodeNext",
+
+    "strict": true,
+    "strictNullChecks": true,
+    "noImplicitAny": true,
+
+    "moduleResolution": "NodeNext",
+    "esModuleInterop": true,
+
+    "types": ["node", "playwright"],
+    "skipLibCheck": true,
+
+    "resolveJsonModule": true,
+    "sourceMap": true,
+
+    "allowImportingTsExtensions": true,
+
+    "noEmit": true
+  },  
+
+  "include": ["**/*.ts"],
+  "exclude": ["node_modules"]
+}

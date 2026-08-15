@@ -1,0 +1,13 @@
+
+{
+    "createLeadData": {
+        "nameTitle": "Mr.",
+        "firstName": "Ankush",
+        "lastName" : "Yadav",
+        "companyName" : "surya Tech"
+    },
+    
+    "updateLeadData":{
+        
+    }
+}

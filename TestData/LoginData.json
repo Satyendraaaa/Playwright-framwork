@@ -1,0 +1,39 @@
+
+[
+    {
+        "userName": "admin",
+        "password": "admin",
+        "status": "valid",
+        "label": "right credentail"
+    },
+    {
+        "userName": "ambuj",
+        "password": "admin",
+        "status": "invalid",
+        "label": "wrong userName"
+    },
+    {
+        "userName": "admin",
+        "password": "Yadav",
+        "status": "invalid",
+        "label": "wrong password"
+    },
+    {
+        "userName": " ",
+        "password": "admin",
+        "status": "invalid",
+        "label": "blanck userName"
+    },
+    {
+        "userName": "admin",
+        "password": " ",
+        "status": "invalid",
+        "label": "blanck password"
+    },
+    {
+        "userName": " ",
+        "password": " ",
+        "status": "invalid",
+        "label": "blanck cridenctial"
+    }
+]
